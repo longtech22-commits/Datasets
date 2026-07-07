@@ -1,0 +1,1 @@
+The iot_resource_allocation_dataset.csv has been taken from: Z. I. A. Khan, “Multi‑Tier IoT Resource Allocation Dataset,” Kaggle, 2023. Available: https://www.kaggle.com/datasets/ziya07/multi-tier-iot-resource-allocation-dataset. Accessed: May 2026.
